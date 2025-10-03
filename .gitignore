@@ -154,5 +154,5 @@ jspm_packages/
 ehthumbs.db
 Thumbs.db
 
-# Prisma
+# Prisma 
 prisma/migrations/
