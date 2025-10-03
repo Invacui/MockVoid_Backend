@@ -57,16 +57,16 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.test
-.env.local
-.env.production
-Private.env
-private.env
+# .env
+# .env.test
+# .env.local
+# .env.production
+# Private.env
+# private.env
 
-# Environment configuration files
-environment/private.*.env
-environment/*.env
+# # Environment configuration files
+# environment/private.*.env
+# environment/*.env
 
 # parcel-bundler cache
 .cache
@@ -135,8 +135,7 @@ jspm_packages/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
+
 
 # IDE files
 .vscode/
